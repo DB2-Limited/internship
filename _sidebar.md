@@ -1,0 +1,3 @@
+- **Lectures**
+  - [Lecture 1](/lecture-1/lecture.md)
+  - [Lecture 2](/lecture-2/lecture.md)
