@@ -23,9 +23,17 @@
 - **TODO Highlight** - https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight
 - **YAML** - https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml
 - **SASS** - https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented
+- ...
+- https://marketplace.visualstudio.com/
 
 ###### WebStorm:
-- TBD
+- **WakaTime** - https://plugins.jetbrains.com/plugin/7425-wakatime
+- **Markdown** - https://plugins.jetbrains.com/plugin/7793-markdown
+- **Awesome Console** - https://plugins.jetbrains.com/plugin/7677-awesome-console
+- **LiveEdit** - https://plugins.jetbrains.com/plugin/7007-liveedit
+- **BashSupport** - https://plugins.jetbrains.com/plugin/4230-bashsupport
+- ...
+- https://plugins.jetbrains.com/webstorm
 
 ### Code snippets, multicursors, hotkeys
 ###### Snippets
