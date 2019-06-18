@@ -10,4 +10,13 @@
 - BEM
 
 ### [20.06 Lection 2](/lecture-2/lecture.md)
-- TBD
+- Intro to VCS
+- Purpose
+- VCS types
+- Version Control Systems
+- VSC services
+- Glossary
+- Commands
+- Branching
+- Typical branching flow
+- Useful tricks
