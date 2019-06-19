@@ -176,3 +176,79 @@ git reset --hard HEAD~1
 git push origin HEAD --force
 ```
 
+- Keep empty directory in VCS
+
+Just place empty `.gitkeep` file in that directory
+
+
+### .gitignore && .gitignore_global
+
+```
+# Ignore all files & folders & subfloders
+*
+# Ignore all files with .txt extension
+*.txt
+# Ignore specific file
+example.com
+# Ignore specific directory (nested)
+/dist
+# Ignore specific files in specific directory
+/dist/*.jpg
+# Ignore specific files in specific directory (nested)
+/dist/**/*.jpg
+# Ignore directory except single file
+/dist/*
+!/dist/example.txt
+# Ignore files by mask in name (will work with /dist/img/a/test.jpg, /dist/img/a1/test.jpeg etc)
+/dist/img/a?/*.jp?g
+```
+
+### .gitattributes
+
+### Gitflow
+
+**Gitflow** - branching model for Git, authored by Vincent Driessen. Made for collaboration and easy maintenance.
+
+**Pros**:
+- Simultaneously development
+- Staging
+- Collaboration
+- Hotfixes
+
+**Cons**:
+- None
+
+![Cons](none-cons.gif ':size=500x250')
+
+
+###### How it works
+
+- Feature branches
+
+![Feature branches](feature-branches.png)
+
+- Development branch
+
+![Development branch](development-branch.png)
+
+- Release branch
+
+![Release branch](release-branch.png)
+
+- Merge to master and dev branches
+
+![Merge to master and dev](merge-to-master-dev.png)
+
+- Hotfixes
+
+![Hotfix](hotfixes.png)
+
+### Github templates
+
+- Issue templates in `.github/ISSUES_TEMPLATE/*.md`
+  - Bug report
+  - Feature request
+  - Custom template
+- Pull request templates in `.github/PULL_REQUEST_TEMPLATE.md`
+
+### Github pages

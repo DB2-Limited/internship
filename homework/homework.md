@@ -15,4 +15,28 @@ References:
 - https://habr.com/ru/post/256109/
 
 ### Lecture 2 Homework
-tbd
+
+- Practice with Git (branching, merge, PRs)
+- Learn how to use .gitignore, .gitkeep, .gitattributes
+- Learn about gitflow
+- Create Github issue and PR templates
+- Deploy simple html page to Github Pages
+
+References:
+- https://guides.github.com/introduction/git-handbook/
+- https://github.github.com/training-kit/
+- http://git-school.github.io/visualizing-git/
+- https://learngitbranching.js.org/
+- https://git-scm.com/
+- https://git-scm.com/docs/gitignore
+- https://github.com/github/gitignore
+- https://git-scm.com/docs/gitattributes
+- https://datasift.github.io/gitflow/IntroducingGitFlow.html
+- https://pages.github.com/
+
+### Lecture 3 Homework
+
+- TBD
+
+References:
+- TBD

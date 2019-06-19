@@ -14,9 +14,14 @@
 - Purpose
 - VCS types
 - Version Control Systems
-- VSC services
+- VCS services
 - Glossary
 - Commands
 - Branching
 - Typical branching flow
 - Useful tricks
+- .gitignore && .gitignore_global
+- .gitattributes
+- Gitflow
+- Github templates
+- Github pages
