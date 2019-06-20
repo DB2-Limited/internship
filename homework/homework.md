@@ -16,23 +16,23 @@ References:
 
 ### Lecture 2 Homework
 
-- Practice with Git (branching, merge, PRs)
+- Practice with Git (branching, merge, PRs) - https://learngitbranching.js.org/
+- Finish free Codecademy course (Bash/Shell) - https://www.codecademy.com/learn/learn-the-command-line
+- Deploy simple html page to Github Pages - https://pages.github.com/
 - Learn how to use .gitignore, .gitkeep, .gitattributes
 - Learn about gitflow
 - Create Github issue and PR templates
-- Deploy simple html page to Github Pages
 
 References:
 - https://guides.github.com/introduction/git-handbook/
 - https://github.github.com/training-kit/
 - http://git-school.github.io/visualizing-git/
-- https://learngitbranching.js.org/
 - https://git-scm.com/
 - https://git-scm.com/docs/gitignore
 - https://github.com/github/gitignore
 - https://git-scm.com/docs/gitattributes
 - https://datasift.github.io/gitflow/IntroducingGitFlow.html
-- https://pages.github.com/
+
 
 ### Lecture 3 Homework
 
