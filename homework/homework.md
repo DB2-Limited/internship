@@ -32,6 +32,7 @@ References:
 - https://github.com/github/gitignore
 - https://git-scm.com/docs/gitattributes
 - https://datasift.github.io/gitflow/IntroducingGitFlow.html
+- https://semver.org/
 
 
 ### Lecture 3 Homework
