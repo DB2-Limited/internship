@@ -6,3 +6,4 @@
   
 - **Info**
   - [Homework](/homework/homework.md)
+  - [Videos](/videos/videos.md)
