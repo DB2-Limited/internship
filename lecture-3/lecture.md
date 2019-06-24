@@ -73,4 +73,19 @@
 - https://youtu.be/FEs2jgZBaQA?t=860 *why you don`t need css framework*
 - https://medium.com/magnetcoop/do-you-really-need-a-css-framework-767a8434eb76
 
-### TBD
+
+
+### Package managers 
+(npm vs yarn)
+
+### Adaptive coding
+(flex/grid)
+
+### CSS Preprocessors & Postprocessors
+(Sass, Less, PostCSS)
+
+### HTML template engines
+(pug, nunjucks, handlebars, mustache)
+
+### Tooling
+(Webpack, Gulp) 
