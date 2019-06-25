@@ -10,4 +10,5 @@
 - [VCS. Git.](https://www.youtube.com/watch?v=UFUBDXMJudQ)
 
 ### Lecture #3
-  - TBD
+- [Semantic HTML. Package managers. Adaptive coding.](https://www.youtube.com/watch?v=mW9OSWx1P-Q)
+- [Review homework #2.](https://www.youtube.com/watch?v=KkBEBzjotVE)
