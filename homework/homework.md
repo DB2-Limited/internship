@@ -37,8 +37,13 @@ References:
 
 ### Lecture 3 Homework
 
-- TBD
+- switch div`s to semantic tags
+- set up gulp (find interesting tasks)
+- add sass + mixins
+- set up adaptive*
 
 References:
 - https://habr.com/ru/post/133363/
 - http://prgssr.ru/development/yarn-ili-npm-vse-chto-vam-nuzhno-znat.html
+- https://www.w3schools.com/css/css3_mediaqueries_ex.asp
+- https://medium.com/magnetcoop/do-you-really-need-a-css-framework-767a8434eb76
