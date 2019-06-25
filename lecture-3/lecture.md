@@ -75,8 +75,76 @@
 
 
 
-### Package managers 
-(npm vs yarn)
+### Package managers
+**Package manager** - command line client with access to an online database(registry) of libraries(packages).
+
+###### NPM
+Pros:
+- `nvm` or `n`
+- audit
+Cons:
+- speed
+- caching
+- security
+- problems with package-lock.json
+- node-gyp
+
+###### Yarn
+Pros:
+- `Lerna`
+- speed
+- caching
+- security
+- `yarn why <package_name>`
+- manage licenses
+- predictability
+
+Cons:
+- separate install
+- sending data to Facebook
+
+###### package.json
+
+- Initializing
+```bash
+npm init -y
+```
+- Example with default values
+
+```json
+{
+  "name": "internship-docs",
+  "version": "1.0.0",
+  "description": "> The aim of education should be to teach us rather how to think, than what to think.",
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DB2-Limited/internship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+      "url": "https://github.com/DB2-Limited/internship/issues"
+  },
+  "homepage": "https://github.com/DB2-Limited/internship#readme"
+}
+```
+- Licensing
+  - https://choosealicense.com/
+  - https://help.github.com/en/articles/licensing-a-repository
+
+- Engines
+
+```json
+"engines": {
+    "node": "12.0.0",
+    "npm": "6.9.0"
+}
+```
 
 ### Adaptive coding
 (flex/grid)
