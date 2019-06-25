@@ -40,4 +40,5 @@ References:
 - TBD
 
 References:
-- TBD
+- https://habr.com/ru/post/133363/
+- http://prgssr.ru/development/yarn-ili-npm-vse-chto-vam-nuzhno-znat.html

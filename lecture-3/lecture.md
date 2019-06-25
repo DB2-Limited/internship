@@ -77,6 +77,15 @@
 
 ### Package managers
 **Package manager** - command line client with access to an online database(registry) of libraries(packages).
+- Pinned versions
+- A stable distribution
+- Decentralization
+    - Stronger encapsulation for dependencies.
+    - Advancing semantic versioning.
+    - Centralization as a special-case.
+
+- https://www.npmjs.com/
+- https://yarnpkg.com/en/
 
 ###### NPM
 Pros:
@@ -146,8 +155,229 @@ npm init -y
 }
 ```
 
+###### NPM vs Yarn commands
+<table>
+<tbody>
+    <tr>
+      <td><code class="highlighter-rouge">npm install</code></td>
+      <td><code class="highlighter-rouge">yarn install</code></td>
+    </tr>
+    <tr>
+      <td><strong><em>(N/A)</em></strong></td>
+      <td><code class="highlighter-rouge">yarn install --flat</code></td>
+    </tr>
+    <tr>
+      <td><strong><em>(N/A)</em></strong></td>
+      <td><code class="highlighter-rouge">yarn install --har</code></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm install --no-package-lock</code></td>
+      <td><code class="highlighter-rouge">yarn install --no-lockfile</code></td>
+    </tr>
+    <tr>
+      <td><strong><em>(N/A)</em></strong></td>
+      <td><code class="highlighter-rouge">yarn install --pure-lockfile</code></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm install [package] --save</code></td>
+      <td><code class="highlighter-rouge">yarn add [package]</code></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm install [package] --save-dev</code></td>
+      <td><code class="highlighter-rouge">yarn add [package] --dev</code></td>
+    </tr>
+    <tr>
+      <td><strong><em>(N/A)</em></strong></td>
+      <td><code class="highlighter-rouge">yarn add [package] --peer</code></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm install [package] --save-optional</code></td>
+      <td><code class="highlighter-rouge">yarn add [package] --optional</code></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm install [package] --save-exact</code></td>
+      <td><code class="highlighter-rouge">yarn add [package] --exact</code></td>
+    </tr>
+    <tr>
+      <td><strong><em>(N/A)</em></strong></td>
+      <td><code class="highlighter-rouge">yarn add [package] --tilde</code></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm install [package] --global</code></td>
+      <td><code class="highlighter-rouge">yarn global add [package]</code></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm update --global</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+      <td><code class="highlighter-rouge">yarn global upgrade</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm rebuild</code></td>
+      <td><code class="highlighter-rouge">yarn add --force</code></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm uninstall [package]</code></td>
+      <td><code class="highlighter-rouge">yarn remove [package]</code></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm cache clean</code></td>
+      <td><code class="highlighter-rouge">yarn cache clean [package]</code></td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">rm -rf node_modules &amp;&amp; npm install</code> &nbsp;</td>
+      <td><code class="highlighter-rouge">yarn upgrade</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm version major</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+      <td><code class="highlighter-rouge">yarn version --major</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm version minor</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+      <td><code class="highlighter-rouge">yarn version --minor</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+    </tr>
+    <tr>
+      <td><code class="highlighter-rouge">npm version patch</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+      <td><code class="highlighter-rouge">yarn version --patch</code> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 ### Adaptive coding
-(flex/grid)
+###### media queries
+```css
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+/* Styles */
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+/* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+/* Styles */
+}
+/**********
+iPad 3
+**********/
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+/* Styles */
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+/* Styles */
+}
+
+/* iPhone 4 ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
+/* Styles */
+}
+
+/* iPhone 5 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 568px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* iPhone 6, 7, 8 ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* iPhone 6+, 7+, 8+ ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* iPhone X ----------- */
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* iPhone XS Max, XR ----------- */
+@media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* Samsung Galaxy S3 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 2){
+/* Styles */
+}
+
+/* Samsung Galaxy S4 ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+/* Samsung Galaxy S5 ----------- */
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : landscape) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+
+@media only screen and (min-device-width: 360px) and (max-device-height: 640px) and (orientation : portrait) and (-webkit-device-pixel-ratio: 3){
+/* Styles */
+}
+```
+
+- https://www.sitepoint.com/media-queries-width-vs-device-width/ *width vs device width*
+- https://habr.com/ru/post/150071/ *-webkit-device-pixel-ratio*
+- https://css-tricks.com/snippets/css/retina-display-media-query/ *-webkit-device-pixel-ratio*
+
 
 ### CSS Preprocessors & Postprocessors
 (Sass, Less, PostCSS)
