@@ -240,6 +240,7 @@ npm init -y
     </tr>
   </tbody>
 </table>
+
 ### Adaptive coding
 ###### media queries
 ```css
