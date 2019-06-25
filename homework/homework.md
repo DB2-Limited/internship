@@ -1,5 +1,7 @@
 # Homeworks
 
+> https://docs.google.com/spreadsheets/d/1Mq_SLRHjnts6n7vZNn2g8dSvBdwtHUh3hGPDsQR0ON8/edit#gid=0
+
 ### Lecture 1 Homework
 
 - Setup workspace
