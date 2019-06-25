@@ -375,13 +375,90 @@ iPad 3
 }
 ```
 
+- https://www.w3schools.com/css/css3_mediaqueries_ex.asp *responsive intro*
 - https://www.sitepoint.com/media-queries-width-vs-device-width/ *width vs device width*
 - https://habr.com/ru/post/150071/ *-webkit-device-pixel-ratio*
 - https://css-tricks.com/snippets/css/retina-display-media-query/ *-webkit-device-pixel-ratio*
 
 
 ### CSS Preprocessors & Postprocessors
-(Sass, Less, PostCSS)
+> A traditional preprocessor like Sass gives you a whole bunch of functionality all bundled into one tool, irrespective of whether you need or will use all of those features.
+> On the flip side, PostCSS is a blank slate; you can add as many or as few features to your process as you require.
+
+###### Sass
+- Preprocessing
+- Variables
+- Nesting
+- Partials
+- Extend/Inheritance
+- Operators
+
+- https://sass-lang.com/guide 
+- https://www.developerdrive.com/10-best-sass-mixins-for-web-developers/ *(mixins)*
+
+```sass
+//************************ MIXINS **************************
+=placeholder
+  &::-webkit-input-placeholder
+    @content
+  &:-moz-placeholder
+    @content
+  &::-moz-placeholder
+    @content
+  &:-ms-input-placeholder
+    @content
+
+%clearfix
+  *zoom: 1
+  &:before, &:after
+    content: " "
+    display: table
+  &:after
+    clear: both
+    
+@mixin bp-960
+  @media (max-width: 960px)
+    @content
+
+@mixin bp-768
+  @media (max-width: 768px)
+    @content
+    
+
+@mixin bp-460
+  @media (max-width: 460px)
+    @content
+
+//************************ MARGINS *************************
+@for $i from 1 through 30
+  .#{m-t}-#{$i}
+    margin-top: 0px + $i
+
+@for $i from 1 through 30
+  .#{m-b}-#{$i}
+    margin-bottom: 0px + $i
+
+//************************ PADDINGS *************************
+@for $i from 1 through 30
+  .#{p-t}-#{$i}
+    padding-top: 0px + $i
+
+@for $i from 1 through 30
+  .#{p-b}-#{$i}
+    padding-bottom: 0px + $i
+
+```
+
+###### PostCSS
+[precss](https://github.com/jonathantneal/precss) – is a tool that allows you to use Sass-like markup in your CSS files. Enjoy a familiar syntax with variables, mixins, conditionals, and other goodies.
+
+[cssnext](https://github.com/cssnext/cssnext/) – is a CSS transpiler that allows you to use the latest CSS syntax today. It transforms CSS specs into more compatible CSS so you don’t need to wait for browser support.
+
+[level4](https://github.com/stephenway/level4) – allows you to use W3C CSS Level 4 Modules Today with PostCSS. Take advantage of future techniques like variables, custom selectors, color functions, and new pseudo selectors.
+
+[rucksack](http://simplaio.github.io/rucksack/) – contains plugins to speed up CSS development with new features and shortcuts.
+
+[cssnano](http://cssnano.co/) – contains plugins that optimize CSS size for use in production.
 
 ### HTML template engines
 (pug, nunjucks, handlebars, mustache)
