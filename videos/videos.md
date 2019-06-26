@@ -12,3 +12,6 @@
 ### Lecture #3
 - [Semantic HTML. Package managers. Adaptive coding.](https://www.youtube.com/watch?v=mW9OSWx1P-Q)
 - [Review homework #2.](https://www.youtube.com/watch?v=KkBEBzjotVE)
+
+### Lecture #4
+- TBD

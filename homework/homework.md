@@ -39,13 +39,26 @@ References:
 
 ### Lecture 3 Homework
 
-- switch div`s to semantic tags
-- set up gulp (find interesting tasks)
-- add sass + mixins
-- set up adaptive*
+- Switch div`s to semantic tags
+- Set up Gulp (find interesting tasks)
+- Add SASS + mixins
+- Set up adaptive*
 
 References:
 - https://habr.com/ru/post/133363/
 - http://prgssr.ru/development/yarn-ili-npm-vse-chto-vam-nuzhno-znat.html
 - https://www.w3schools.com/css/css3_mediaqueries_ex.asp
 - https://medium.com/magnetcoop/do-you-really-need-a-css-framework-767a8434eb76
+
+
+### Lecture 4 Homework
+
+- TBD
+
+References:
+- https://devhints.io/pug
+- https://pugjs.org/api/getting-started.html
+- https://mozilla.github.io/nunjucks/getting-started.html
+- https://gulpjs.com/plugins/
+- https://github.com/gulp-community
+- https://github.com/alferov/awesome-gulp#plugins

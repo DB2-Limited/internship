@@ -459,9 +459,3 @@ iPad 3
 [rucksack](http://simplaio.github.io/rucksack/) – contains plugins to speed up CSS development with new features and shortcuts.
 
 [cssnano](http://cssnano.co/) – contains plugins that optimize CSS size for use in production.
-
-### HTML template engines
-(pug, nunjucks, handlebars, mustache)
-
-### Tooling
-(Webpack, Gulp) 
