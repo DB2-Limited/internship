@@ -57,6 +57,7 @@ References:
 - Configure Gulp and some Gulp plugins
 - Rewrite HTML with Pug or Nunjucks
 - Setup Github Pages NPM script for fast deployment
+- Coding more pages - https://www.figma.com/file/N6yaH1fyEPYmxvDYHpAWuuPc/DB2-Internship?node-id=0%3A1
 
 References:
 - https://devhints.io/pug
@@ -65,4 +66,6 @@ References:
 - https://gulpjs.com/plugins/
 - https://github.com/gulp-community
 - https://github.com/alferov/awesome-gulp#plugins
+- https://github.com/DB2-Limited/awesome-cheats/blob/master/frontend/linting_sass.md
 - https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+- https://github.com/4doge/gulp-pug-demo

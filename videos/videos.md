@@ -14,4 +14,5 @@
 - [Review homework #2.](https://www.youtube.com/watch?v=KkBEBzjotVE)
 
 ### Lecture #4
-- TBD
+- [Review homework #3. Gulp. Pug.](https://www.youtube.com/watch?v=FGsypGc3ysw)
+- [Gulp plugins. Pug. Nunjucks.](https://www.youtube.com/watch?v=TVyadjSfJaM)
