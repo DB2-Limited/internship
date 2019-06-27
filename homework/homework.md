@@ -53,7 +53,10 @@ References:
 
 ### Lecture 4 Homework
 
-- TBD
+- Setup SASS lint and SASS lint autofixer
+- Configure Gulp and some Gulp plugins
+- Rewrite HTML with Pug or Nunjucks
+- Setup Github Pages NPM script for fast deployment
 
 References:
 - https://devhints.io/pug
@@ -62,3 +65,4 @@ References:
 - https://gulpjs.com/plugins/
 - https://github.com/gulp-community
 - https://github.com/alferov/awesome-gulp#plugins
+- https://www.atlassian.com/git/tutorials/merging-vs-rebasing
