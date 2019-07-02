@@ -223,5 +223,4 @@ https://webpack.js.org/guides/development/#using-webpack-dev-server
 
 ### Architectures
 
-![structure](structure-example.png)
-
+![Structure](structure-example.png ':size=300x550')

@@ -26,7 +26,6 @@
 - Github templates
 - Github pages
 
-
 ### [25.06 Lection 3](/lecture-3/lecture.md)
 - Semantic HTML
 - Package managers
@@ -37,3 +36,8 @@
 ### [27.06 Lection 4](/lecture-4/lecture.md)
 - HTML template engines
 - Tooling
+- Gulp
+
+### [02.07 Lection 5](/lecture-5/lecture.md)
+- Webpack
+- Loaders & plugins

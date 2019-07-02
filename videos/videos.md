@@ -16,3 +16,7 @@
 ### Lecture #4
 - [Review homework #3. Gulp. Pug.](https://www.youtube.com/watch?v=FGsypGc3ysw)
 - [Gulp plugins. Pug. Nunjucks.](https://www.youtube.com/watch?v=TVyadjSfJaM)
+
+### Lecture #5
+- [Review homework #4.](https://www.youtube.com/watch?v=5RqVfPPeoxk)
+- [Webpack. Loaders & Plugins.](https://www.youtube.com/watch?v=MtglciupwoI)

@@ -71,5 +71,16 @@ References:
 - https://github.com/4doge/gulp-pug-demo
 
 ### Lecture 5 Homework
+
+- Setup brand new project with Webpack
+- Configure webpack loaders (e.g. SASS, Pug or Nunjucks)
+- Configure webpack plugins (e.g. Minification, Hot Module Replacement, Uglify, Compress)
+
+References:
 - [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) /
   [Вы не знаете JS: Начните и Совершенствуйтесь](https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going)
+- https://github.com/4doge/webpack-pug-sass-demo
+- https://github.com/SoldierCorp/webpack-starter-pug-sass-es6-jquery/tree/master/build
+- https://webpack.js.org/plugins/
+- https://webpack.js.org/loaders/
+- https://github.com/webpack-contrib/awesome-webpack
