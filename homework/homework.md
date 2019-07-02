@@ -69,3 +69,7 @@ References:
 - https://github.com/DB2-Limited/awesome-cheats/blob/master/frontend/linting_sass.md
 - https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 - https://github.com/4doge/gulp-pug-demo
+
+### Lecture 5 Homework
+- [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/master/up%20%26%20going) /
+  [Вы не знаете JS: Начните и Совершенствуйтесь](https://github.com/azat-io/you-dont-know-js-ru/tree/master/up%20%26%20going)
