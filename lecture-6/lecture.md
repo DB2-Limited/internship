@@ -1,5 +1,52 @@
 # Lecture 6
 
+### Arrays
+
+```js
+var fruits = ['Banana', 'Apple', 'Orange'];
+// or
+var fruits = new Array('Banana', 'Apple', 'Orange');
+```
+
+**Arrays to strings methods:**
+- `fruits.toString()` - join all arrays items with comma spliter
+- `fruits.join('|')` - join all array items with custom spliter
+
+**Adding and removing methods:**
+- `fruits.pop()` - remove last item from an array
+- `fruits.shift()` - remove first item from an array
+- `fruits.push('Mango')` - adds a new item to an arrays end
+- `fruits.unshift('Lemon')` - adds a new item to ad arrays start
+
+**Working with array items:**
+- `fruits[0]` - by index
+- `fruits.length` - get count of array items
+- `delete fruits[0]` - replace array item with `undefined`
+- `fruits.splice(<where_add>, <how_many_remove>, <**items>)` / `fruits.splice(1, 2, 'Kiwi', 'Lemon')` - used for add or remove items from array
+
+**Operating arrays:**
+- `fruits.slice(2, 3)` - create a new array with items starting from custom index and finish on the other custom index
+- `fruits.concat(['Kiwi', 'Lemon'])` - merge array with another array2 
+
+**Sorting arrays:**
+- `fruits.sort()` - sorting array of items
+- `fruits.sort(<compare_function>)` - e.g. `function(a, b){return a - b}` for ASC sorting or `function(a, b){return b - a}` for DESC
+- `fruits.reverse()` - reverse sorting array of items
+
+
+**Arrays iteration methods:**
+- `fruits.forEach(<callback_function>)` - runs callback function once for each array item, which accept item value, item index and the full array
+- `fruits.map(<map_function>)` - creates a new array by running function(value, index, array) on each array element
+- `fruits.filter(<filter_function>)` - create a new array with items that passes condition of filter function(value, index, array)
+- `fruits.reduce(<reduce_function>)` - runs a function(value from previous run, value, index, array) on each array item to produce a single value
+- `fruits.reduceRight()` - the same as `reduce` but works from right to left.
+- `fruits.every()` - method to check if all array items pass the conditional function(value, index, array)
+- `fruits.some()` - method to check if any array item pass the conditional function(value, index, array)
+- `fruits.indexOf()` - method find item in array and return his index
+- `fruits.lastIndexOf()` - the same as `indexOf` but from right to left
+- `fruits.find(<conditional_function>)` - return the first array item that passes conditional function
+- `fruits.findIndex(<conditional_function>)` - return the first array item index that passes conditional function
+
 ### Functions
 
 Functions are objects that:

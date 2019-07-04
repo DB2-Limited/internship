@@ -43,5 +43,6 @@
 - Loaders & plugins
 
 ### [04.07 Lection 6](/lecture-6/lecture.md)
+- Arrays
 - Functions
-- 
+- DOM
