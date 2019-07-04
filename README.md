@@ -41,3 +41,6 @@
 ### [02.07 Lection 5](/lecture-5/lecture.md)
 - Webpack
 - Loaders & plugins
+
+### [04.07 Lection 6](/lecture-6/lecture.md)
+- TBD
