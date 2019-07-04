@@ -110,3 +110,46 @@ function() {
   // body
 }
 ```
+
+
+###### Callback pattern
+
+Function are objects, so we can passed them as arguments to other functions.
+
+```js
+function sayHello(callback) {
+  console.log('Hello!');
+  callback();
+}
+
+function reply() {
+  console.log('Hey!');
+}
+
+sayHello(reply);
+```
+
+###### Working with DOM
+
+- Document object model
+- Browser object model
+- Javascript
+
+![Window](./window.png)
+
+###### DOM navigation
+
+**Structure:**
+- document.head - `<head>`
+- document.body - `<body>`
+- document.documentElement - `<html>`
+
+**Childs and parent:**
+- parentNode
+- childNodes
+- firstChild
+- lastChild
+
+**Neighborhoods:**
+- previousSibling
+- nextSibling
