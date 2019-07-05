@@ -89,7 +89,13 @@ References:
 ### Lecture 6 Homework
 
 - Practice JS (Strings, Arrays, Loops, Functions)
+- Achive minimum 3000 points on Codecup (better more ;)
+- Find interesting JS cases for next lecture to discuss
 
 References:
 - https://www.w3schools.com/js/exercise_js.asp
 - https://www.w3resource.com/javascript-exercises/
+- https://codecup.online/problems/
+- https://codecup.online/problem/5/ 
+- https://www.codewars.com/
+- https://coderbyte.com/challenges
