@@ -84,3 +84,12 @@ References:
 - https://webpack.js.org/plugins/
 - https://webpack.js.org/loaders/
 - https://github.com/webpack-contrib/awesome-webpack
+
+
+### Lecture 6 Homework
+
+- Practice JS (Strings, Arrays, Loops, Functions)
+
+References:
+- https://www.w3schools.com/js/exercise_js.asp
+- https://www.w3resource.com/javascript-exercises/
