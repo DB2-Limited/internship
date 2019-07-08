@@ -21,7 +21,11 @@
 - [Review homework #4.](https://www.youtube.com/watch?v=5RqVfPPeoxk)
 - [Webpack. Loaders & Plugins.](https://www.youtube.com/watch?v=MtglciupwoI)
 
-
 ### Lecture #6
 - [Review homework #5.](https://www.youtube.com/watch?v=LSOX1qdq3is)
 - [Javascript. Arrays. Functions.](https://www.youtube.com/watch?v=6pdrdtbNFEA)
+
+
+### Lecture #7
+- [TBD](https://www.youtube.com/watch?v=)
+- [TBD](https://www.youtube.com/watch?v=)

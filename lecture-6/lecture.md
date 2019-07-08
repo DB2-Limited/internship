@@ -175,28 +175,3 @@ function reply() {
 
 sayHello(reply);
 ```
-
-###### Working with DOM
-
-- Document object model
-- Browser object model
-- Javascript
-
-![Window](./window.png)
-
-###### DOM navigation
-
-**Structure:**
-- document.head - `<head>`
-- document.body - `<body>`
-- document.documentElement - `<html>`
-
-**Childs and parent:**
-- parentNode
-- childNodes
-- firstChild
-- lastChild
-
-**Neighborhoods:**
-- previousSibling
-- nextSibling

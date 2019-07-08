@@ -36,7 +36,6 @@ References:
 - https://datasift.github.io/gitflow/IntroducingGitFlow.html
 - https://semver.org/
 
-
 ### Lecture 3 Homework
 
 - Switch div`s to semantic tags
@@ -49,7 +48,6 @@ References:
 - http://prgssr.ru/development/yarn-ili-npm-vse-chto-vam-nuzhno-znat.html
 - https://www.w3schools.com/css/css3_mediaqueries_ex.asp
 - https://medium.com/magnetcoop/do-you-really-need-a-css-framework-767a8434eb76
-
 
 ### Lecture 4 Homework
 
@@ -85,7 +83,6 @@ References:
 - https://webpack.js.org/loaders/
 - https://github.com/webpack-contrib/awesome-webpack
 
-
 ### Lecture 6 Homework
 
 - Practice JS (Strings, Arrays, Loops, Functions)
@@ -99,3 +96,10 @@ References:
 - https://codecup.online/problem/5/ 
 - https://www.codewars.com/
 - https://coderbyte.com/challenges
+
+### Lecture 7 Homework
+
+- TBD
+
+References:
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode

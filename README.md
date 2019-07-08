@@ -45,4 +45,8 @@
 ### [04.07 Lection 6](/lecture-6/lecture.md)
 - Arrays
 - Functions
+
+### [09.07 Lection 7](/lecture-7/lecture.md)
 - DOM
+- Objects
+- Events
