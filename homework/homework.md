@@ -100,8 +100,12 @@ References:
 ### Lecture 7 Homework
 
 - Setup ESLint
+- TBD
 
 References:
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
 - https://eslint.org/
 - https://github.com/4doge/js-eslint-demo
+- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+- https://www.w3.org/TR/DOM-Level-2-Core/introduction.html
+- http://learn.javascript.ru/event-delegation

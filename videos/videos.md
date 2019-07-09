@@ -25,7 +25,7 @@
 - [Review homework #5.](https://www.youtube.com/watch?v=LSOX1qdq3is)
 - [Javascript. Arrays. Functions.](https://www.youtube.com/watch?v=6pdrdtbNFEA)
 
-
 ### Lecture #7
-- [TBD](https://www.youtube.com/watch?v=)
-- [TBD](https://www.youtube.com/watch?v=)
+- [Review homework #6.](https://www.youtube.com/watch?v=SLndFPAMmAA)
+- [Javascript. Events.](https://www.youtube.com/watch?v=V8BHS7DxpEc)
+- [Javascript. Objects. ESLint.](https://www.youtube.com/watch?v=ZRlEqbSpxlo)
