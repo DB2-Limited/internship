@@ -54,3 +54,5 @@
 - https://nicothin.pro/idiomatic-pre-CSS/
 - https://ru.bem.info/methodology/quick-start/
 
+### Code style
+- https://learn.javascript.ru/coding-style
