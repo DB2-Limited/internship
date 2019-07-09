@@ -47,6 +47,7 @@
 - Functions
 
 ### [09.07 Lection 7](/lecture-7/lecture.md)
-- DOM
 - Objects
+- DOM
 - Events
+- ESLint

@@ -249,3 +249,49 @@ man.sayHello();
 **Neighborhoods:**
 - previousSibling
 - nextSibling
+
+### ESLint
+
+- Airbnb, https://github.com/airbnb/javascript
+- Standard, https://github.com/standard/standard
+- Google, https://github.com/google/eslint-config-google
+
+```json
+{
+    "extends": "eslint:recommended",
+    "rules": {
+        "indent": [
+            "error",
+            2
+        ],
+        "linebreak-style": [
+            "error",
+            "unix"
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "object-curly-spacing": ["error", "always"],
+        "template-curly-spacing": ["error", "always"],
+        "no-cond-assign": [
+            "error",
+            "always"
+        ],
+        "no-console": "off",
+        "eol-last": "error"
+    },
+    "env": {
+        "es6": true,
+        "node": true,
+        "mocha": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 8
+    }
+}
+```

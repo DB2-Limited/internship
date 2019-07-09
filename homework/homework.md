@@ -99,7 +99,9 @@ References:
 
 ### Lecture 7 Homework
 
-- TBD
+- Setup ESLint
 
 References:
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+- https://eslint.org/
+- https://github.com/4doge/js-eslint-demo
