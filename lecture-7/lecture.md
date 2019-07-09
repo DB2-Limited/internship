@@ -205,6 +205,26 @@ obj.fullName = 'Vasya Pupkin';
 console.log(obj.fullName);
 ```
 
+###### Object creation via constructor
+
+```js
+function Man(fullName) {
+  let splittedFullName = fullName.split();
+  this.firstName = splittedFullName[0];
+  this.lastName = splittedFullName[1];
+
+  this.sayHello = function() {
+    console.log('Hello. I\'m ', this.firstName);
+  }
+}
+
+let man = new Man('John Smith');
+let man2 = new Man('Vasya Pupkin');
+console.log(man);
+console.log(man2);
+man.sayHello();
+```
+
 ### Working with DOM
 
 - Document object model
