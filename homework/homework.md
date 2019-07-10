@@ -100,7 +100,10 @@ References:
 ### Lecture 7 Homework
 
 - Setup ESLint
-- TBD
+- Practice JS (Objects, Events)
+- Solve exercises (1, 2, 3, 4, 7, 10, 14, 16, 17) https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php
+- Solve exercises http://learn.javascript.ru/event-delegation#tasks / http://learn.javascript.ru/drag-and-drop#tasks 
+- Coding https://www.figma.com/file/N6yaH1fyEPYmxvDYHpAWuuPc/DB2-Internship?node-id=557%3A2
 
 References:
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
