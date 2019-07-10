@@ -109,3 +109,11 @@ References:
 - https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 - https://www.w3.org/TR/DOM-Level-2-Core/introduction.html
 - http://learn.javascript.ru/event-delegation
+
+
+### Lecture 8 Homework
+
+- TBD
+
+References:
+- TBD

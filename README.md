@@ -51,3 +51,6 @@
 - DOM
 - Events
 - ESLint
+
+### [11.07 Lection 8](/lecture-8/lecture.md)
+- TBD
