@@ -119,4 +119,5 @@ References:
 - TBD
 
 References:
-- TBD
+- https://github.com/trekhleb/javascript-algorithms
+- https://github.com/algorithm-visualizer/algorithm-visualizer
