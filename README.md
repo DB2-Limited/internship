@@ -53,7 +53,8 @@
 - ESLint
 
 ### [11.07 Lection 8](/lecture-8/lecture.md)
+- Introduction
+- Interfaces
 - Functional OOP
 - Prototype OOP
-- Interfaces
 - Algorithms

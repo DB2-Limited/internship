@@ -28,6 +28,131 @@ Object Oriented Programming (OOP) and Functionnal Programming (FP) are programmi
 
 You saw a simple example of this in the Person object and createPerson function we discussed earlier.
 
+### Interfaces
+
+```js
+function CoffeeMachine(power) {
+  this.waterAmount = 0; 
+
+  alert( 'Coffee machine with power: ' + power + ' watt created');
+}
+
+// create
+var coffeeMachine = new CoffeeMachine(100);
+
+// add water
+coffeeMachine.waterAmount = 200;
+```
+
+###### Private and Public methods
+```js
+function CoffeeMachine(power) {
+
+  this.waterAmount = 0;
+
+  // private method
+  function getBoilTime() {
+    return 1000;
+  }
+
+  // private method
+  function onReady() {
+    alert( 'Кофе готов!' );
+  }
+
+  // public method
+  this.run = function() {
+    setTimeout(onReady, getBoilTime());
+  };
+}
+
+
+var coffeeMachine = new CoffeeMachine(100);
+coffeeMachine.waterAmount = 200;
+
+coffeeMachine.run();
+```
+
+###### Access to object from internal methods
+```js
+function CoffeeMachine(power) {
+  this.waterAmount = 0;
+  var WATER_HEAT_CAPACITY = 4200;
+
+  function getBoilTime() {
+    return this.waterAmount * WATER_HEAT_CAPACITY * 80 / power;
+  }
+
+  function onReady() {
+    alert( 'Coffee ready!' );
+  }
+
+  this.run = function() {
+    // usding call
+    setTimeout(onReady, getBoilTime.call(this));
+  };
+}
+var coffeeMachine = new CoffeeMachine(100000);
+coffeeMachine.waterAmount = 200;
+coffeeMachine.run();
+``` 
+
+or
+
+```js
+function CoffeeMachine(power) {
+  this.waterAmount = 0;
+
+  var WATER_HEAT_CAPACITY = 4200;
+
+  var getBoilTime = function() {
+    return this.waterAmount * WATER_HEAT_CAPACITY * 80 / power;
+  }.bind(this);
+
+  function onReady() {
+    alert( 'Coffee ready!' );
+  }
+
+  this.run = function() {
+    setTimeout(onReady, getBoilTime());
+  };
+}
+var coffeeMachine = new CoffeeMachine(100000);
+coffeeMachine.waterAmount = 200;
+coffeeMachine.run();
+```
+
+###### Using `this` as closure
+```js
+function CoffeeMachine(power) {
+  this.waterAmount = 0;
+
+  var WATER_HEAT_CAPACITY = 4200;
+
+  // this as closure
+  var self = this;
+
+  function getBoilTime() {
+      return self.waterAmount * WATER_HEAT_CAPACITY * 80 / power;
+    }
+
+  function onReady() {
+    alert( 'Coffee ready!' );
+  }
+
+  this.run = function() {
+    setTimeout(onReady, getBoilTime());
+  };
+
+}
+
+var coffeeMachine = new CoffeeMachine(100000);
+coffeeMachine.waterAmount = 200;
+coffeeMachine.run();
+```
+self now needs correct getters and setters to work correctly ;)
+
+
 ### Functional OOP
 
 ```js
@@ -188,8 +313,78 @@ for (var key in rabbit) {
 }
 ```
 
-### Interfaces
-- 
+###### `.prototype` method
+```js
+var animal = {
+  eats: true
+};
+
+function Rabbit(name) {
+  this.name = name;
+  this.__proto__ = animal;
+}
+
+var rabbit = new Rabbit("Кроль");
+
+alert( rabbit.eats ); //true from prototype
+```
+
+crossbrowser solution
+```js
+var animal = {
+  eats: true
+};
+
+function Rabbit(name) {
+  this.name = name;
+}
+
+Rabbit.prototype = animal;
+
+var rabbit = new Rabbit("Кроль"); //  rabbit.__proto__ == animal
+
+alert( rabbit.eats ); // true
+```
+
+###### `instanceof`
+```js
+function Rabbit() {}
+
+var rabbit = new Rabbit();
+
+alert( rabbit instanceof Rabbit ); // true
+```
+
+###### Inheritance
+```js
+function Animal(name) {
+  this.name = name;
+  this.speed = 0;
+}
+
+Animal.prototype.stop = function() {
+  this.speed = 0;
+  alert( this.name + ' stay' );
+}
+
+Animal.prototype.run = function(speed) {
+  this.speed += speed;
+  alert( this.name + ' runs, speed ' + this.speed );
+};
+
+function Rabbit(name) {
+  this.name = name;
+  this.speed = 0;
+}
+
+Rabbit.prototype = Object.create(Animal.prototype);
+Rabbit.prototype.constructor = Rabbit;
+
+Rabbit.prototype.jump = function() {
+  this.speed++;
+  alert( this.name + ' jumps, speed ' + this.speed );
+}
+```
 
 ### Algorithms
 
