@@ -13,6 +13,8 @@
 
 ###### Linear search
 
+**Linear search** - sequentially check each element of the list to be equal to found item. Search until found or to the end of list.
+
 ![Linear](./linear.gif)
 
 > Complexity O(n)
@@ -32,6 +34,8 @@ console.log(linearSearch(arr, 'd'));
 ```
 
 ###### Binary search
+
+**Binary search** - or half-interval search, works with sorted array of items. Compares tha target value with the middle item of the array, if they are unequal, the half in which that target cannot lie is eliminated and the search continues with the other half, until found or search reach the end of array.
 
 ![Binary](./binary.gif ':size=400x200')
 
@@ -68,6 +72,15 @@ console.log(binarySearch(arr, 'd'));
 ```
 
 ###### Block(jump) search
+
+**Block(jump) search** - works with sorted arrays. Idea is to check fewer elements than linear search by jumping ahead by fixed steps or skipping some elements.
+
+`arr[k * m] < x < arr[(k + 1) * m]` rule when we start apply the linear search.
+m - jump size
+k - operator
+x - element to find
+
+The best jump size step is - `m = √n`
 
 > Complexity O(√n)
 
@@ -106,6 +119,8 @@ console.log(jumpSearch(arr, 'd'));
 
 ###### Bubble sort
 
+**Bubble sort** - compare each pair of adjasted array elements and swap them if they are in the wrong ordering. Pass through the list is repeated until no swaps needed. 
+
 ![Bubble](./bubble.gif)
 
 > Complexity O(n^2)
@@ -132,6 +147,8 @@ console.log(bubbleSort(arr));
 ```
 
 ###### Selection sort
+
+**Selection sort** - finds minimum value in input array, swap this value with value from first unsorted item.
 
 ![Selection](./selection.gif ':size=75x277')
 
@@ -165,6 +182,8 @@ console.log(selectionSort(arr));
 ```
 
 ###### Quick sort
+
+**Quick sort** - pick pivot element, reorder array, so all items with values great thatn pivot comes after the pivot. After this partioning the pivot is the last element of the new formed array. Do the same with array which store smaller values and array which store bigger values.
 
 ![Quick](./quick.gif)
 
