@@ -53,4 +53,7 @@
 - ESLint
 
 ### [11.07 Lection 8](/lecture-8/lecture.md)
-- TBD
+- Functional OOP
+- Prototype OOP
+- Interfaces
+- Algorithms

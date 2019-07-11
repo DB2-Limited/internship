@@ -116,7 +116,7 @@ References:
 
 ### Lecture 8 Homework
 
-- TBD
+- http://learn.javascript.ru/functional-inheritance#tasks (3 tasks on your choice)
 
 References:
 - TBD
