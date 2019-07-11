@@ -462,9 +462,9 @@ console.log(binarySearch(arr, 'd'));
 **Block(jump) search** - works with sorted arrays. Idea is to check fewer elements than linear search by jumping ahead by fixed steps or skipping some elements.
 
 `arr[k * m] < x < arr[(k + 1) * m]` rule when we start apply the linear search.
-m - jump size
-k - operator
-x - element to find
+- m - jump size
+- k - operator
+- x - element to find
 
 The best jump size step is - `m = √n`
 
