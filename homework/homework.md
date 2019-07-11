@@ -113,11 +113,18 @@ References:
 - https://www.w3.org/TR/DOM-Level-2-Core/introduction.html
 - http://learn.javascript.ru/event-delegation
 
-
 ### Lecture 8 Homework
+
 - http://learn.javascript.ru/task/add-method-property-coffeemachine
 - http://learn.javascript.ru/functional-inheritance#tasks (3 tasks on your choice)
 
 References:
 - https://github.com/trekhleb/javascript-algorithms
 - https://github.com/algorithm-visualizer/algorithm-visualizer
+
+### Lecture 9 Homework
+
+- TBD
+
+References:
+- TBD

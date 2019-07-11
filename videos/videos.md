@@ -29,3 +29,8 @@
 - [Review homework #6.](https://www.youtube.com/watch?v=SLndFPAMmAA)
 - [Javascript. Events.](https://www.youtube.com/watch?v=V8BHS7DxpEc)
 - [Javascript. Objects. ESLint.](https://www.youtube.com/watch?v=ZRlEqbSpxlo)
+
+### Lecture #8
+- [Review homework #7.](https://www.youtube.com/watch?v=TMMv8c_h1K4)
+- [Javascript. OOP. FP. Interfaces. Prototypes.](https://www.youtube.com/watch?v=VIduAV6RJz4)
+- [Javascript. Algorithms.](https://www.youtube.com/watch?v=L6_YVuv0sr8)
