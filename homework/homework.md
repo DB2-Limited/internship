@@ -119,4 +119,5 @@ References:
 - http://learn.javascript.ru/functional-inheritance#tasks (3 tasks on your choice)
 
 References:
-- TBD
+- https://github.com/trekhleb/javascript-algorithms
+- https://github.com/algorithm-visualizer/algorithm-visualizer
