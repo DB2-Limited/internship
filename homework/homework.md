@@ -116,7 +116,9 @@ References:
 ### Lecture 8 Homework
 
 - http://learn.javascript.ru/task/add-method-property-coffeemachine
-- http://learn.javascript.ru/functional-inheritance#tasks (3 tasks on your choice)
+- http://learn.javascript.ru/functional-inheritance#tasks
+- Write your version of algorithms from lecture
+- Write Heap sort, Merge sort, Fibonacci Number, Factorial algorithms
 
 References:
 - https://github.com/trekhleb/javascript-algorithms
