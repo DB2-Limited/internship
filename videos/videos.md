@@ -34,3 +34,7 @@
 - [Review homework #7.](https://www.youtube.com/watch?v=TMMv8c_h1K4)
 - [Javascript. OOP. FP. Interfaces. Prototypes.](https://www.youtube.com/watch?v=VIduAV6RJz4)
 - [Javascript. Algorithms.](https://www.youtube.com/watch?v=L6_YVuv0sr8)
+
+### Lecture #9
+- [Review homework #8.](https://www.youtube.com/watch?v=Yf1q-sdgC5s)
+- [Node.js. Koa. Heroku.](https://www.youtube.com/watch?v=_0KQeNrvmOg)
