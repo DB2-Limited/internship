@@ -126,7 +126,15 @@ References:
 
 ### Lecture 9 Homework
 
-- TBD
+- Write Node.js (Koa-based) server
+- Integrate Nunjucks template engine
+- Deploy to Heroku
 
 References:
-- TBD
+- https://en.wikipedia.org/wiki/List_of_HTTP_header_fields
+- https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+- https://github.com/koajs/koa/wiki
+- https://github.com/queckezz/koa-views
+- https://github.com/ZijianHe/koa-router
+- https://github.com/koajs/cors
+- https://github.com/venables/koa-helmet
