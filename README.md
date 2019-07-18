@@ -62,3 +62,8 @@
 ### [16.07 Lection 9](/lecture-9/lecture.md)
 - Node.js
 - Koa
+
+
+### [18.07 Lection 10](/lecture-10/lecture.md)
+- Databases
+- SQL

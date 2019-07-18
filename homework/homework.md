@@ -138,3 +138,17 @@ References:
 - https://github.com/ZijianHe/koa-router
 - https://github.com/koajs/cors
 - https://github.com/venables/koa-helmet
+
+### Lecture 10 Homework
+
+- TBD
+
+References:
+- https://www.w3schools.com/sql/
+- https://mlab.com/
+- https://www.mongodb.com/cloud/atlas
+- https://www.elephantsql.com/
+- https://www.db-fiddle.com/
+- https://robomongo.org/
+- https://www.pgadmin.org/
+- https://www.jetbrains.com/datagrip/
