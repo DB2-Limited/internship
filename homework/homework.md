@@ -141,7 +141,9 @@ References:
 
 ### Lecture 10 Homework
 
-- TBD
+- Install and integrate MongoDB in your Node project
+- Specify schema for Users model(for /search page)
+- CRUD for Users model (Get list of object on /search page, get single profile on /profile/:id, POST method for create a new User, DELETE method for remove User from database, PUT method for update User)
 
 References:
 - https://www.w3schools.com/sql/
@@ -152,3 +154,4 @@ References:
 - https://robomongo.org/
 - https://www.pgadmin.org/
 - https://www.jetbrains.com/datagrip/
+- https://vuejs.org/v2/style-guide/
