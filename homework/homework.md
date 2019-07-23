@@ -155,3 +155,13 @@ References:
 - https://www.pgadmin.org/
 - https://www.jetbrains.com/datagrip/
 - https://vuejs.org/v2/style-guide/
+
+### Lecture 11 Homework
+
+- TBD
+
+References:
+- https://github.com/powmedia/pow-mongodb-fixtures
+- https://plugins.mongoosejs.io/
+- https://github.com/matteodelabre/mongoose-beautiful-unique-validation
+
