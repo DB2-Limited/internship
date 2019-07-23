@@ -44,4 +44,5 @@
 - [Databases. Mongo.](https://www.youtube.com/watch?v=fmFzMTgdhdE)
 
 ### Lecture #11
-- TBD
+- [Review homework #10.](https://www.youtube.com/watch?v=Fb1Uz3KHk1k)
+- [Mongoose. Plugins & queries.](https://www.youtube.com/watch?v=-VBjrW_SXcw)
