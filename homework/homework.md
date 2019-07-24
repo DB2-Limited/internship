@@ -168,6 +168,7 @@ References:
   - User can be in several categories
   - Add filter functionality by category
   - Add pagination for users list
+  - Add search functionality by keyword (search for `firstName` or `lastName`)
 - **FIX LINTERS / TYPOS / NAMINGS IN YOUR PROJECT**
 
 References:
