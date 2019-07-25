@@ -12,6 +12,28 @@
 ### Vue devtools
 https://github.com/vuejs/vue-devtools#vue-devtools
 
+### Virtual DOM
+![virtual dom](./virtual-dom.png)
+
+[Object.defineProperty](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty)
+
+```bash
+> var obj = {};
+> Object.defineProperty(obj, "text", {
+   get: function() {
+     return text + "get";
+   },
+   set: function (newText) {
+     text = newText + "set";
+   }
+  });
+> obj.text = "text";
+"text"
+> obj.text
+"textsetget"
+```
+![vue schema](./vue-schema.png)
+
 ### Vue object methods
 - `Vue.extend` - allows to subclass the Vue object, to create a custom profile
 - `Vue.nextTick` - defers the callback to be executed after the next DOM update cycle
@@ -25,7 +47,22 @@ https://github.com/vuejs/vue-devtools#vue-devtools
 - `Vue.compile` - compile a template string into a render function
 - `Vue.version` - returns the currently installed version of Vue
 
-### Vue instance
+### Components
+```js
+// Define a new component called button-counter
+Vue.component('button-counter', {
+  data: function () {
+    return {
+      count: 0
+    }
+  },
+  template: '<button v-on:click="count++">You clicked me {{ count }} times.</button>'
+})
+```
+
+![comopnents](./comopnents.png)
+
+https://vuejs.org/v2/guide/components.html
 https://flaviocopes.com/vue-cheat-sheet/#instance-properties
 
 ### Lifecycle Hooks
@@ -43,7 +80,7 @@ https://flaviocopes.com/vue-cheat-sheet/#instance-properties
 ### Directives
 https://vuejs.org/v2/api/#Directives
 
-### v-for
+#### v-for
 
 - **Expects:** `Array | Object | number | string | Iterable (since 2.6)`
 
@@ -83,7 +120,7 @@ https://vuejs.org/v2/api/#Directives
   - [List Rendering](../guide/list.html)
   - [key](../guide/list.html#key)
 
-### v-on
+#### v-on
 
 - **Shorthand:** `@`
 
@@ -173,7 +210,7 @@ https://vuejs.org/v2/api/#Directives
   - [Event Handling](../guide/events.html)
   - [Components - Custom Events](../guide/components.html#Custom-Events)
 
-### v-bind
+#### v-bind
 
 - **Shorthand:** `:`
 
@@ -247,11 +284,3 @@ https://vuejs.org/v2/api/#Directives
 
   `.camel` is not needed if you are using string templates, or compiling with `vue-loader`/`vueify`.
 
-
-
-
-
-# TOREAD:
-https://github.com/vuejs/awesome-vue
-https://flaviocopes.com/vue-cheat-sheet/#working-with-form-elements
-https://github.com/flaviocopes/vuehandbook

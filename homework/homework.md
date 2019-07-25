@@ -175,3 +175,14 @@ References:
 - https://github.com/powmedia/pow-mongodb-fixtures
 - https://plugins.mongoosejs.io/
 - https://github.com/matteodelabre/mongoose-beautiful-unique-validation
+
+### Lecture 12 Homework
+- Coding https://www.figma.com/file/N6yaH1fyEPYmxvDYHpAWuuPc/DB2-Internship?node-id=1007%3A1199
+- Coding https://www.figma.com/file/N6yaH1fyEPYmxvDYHpAWuuPc/DB2-Internship?node-id=1007%3A1568
+- Rewrite your first `TODO` app (from internship interview) with Vue (as <script> tag)
+- Check official guides and watch free videos here (https://www.vuemastery.com/courses/)
+
+References:
+https://github.com/vuejs/awesome-vue
+https://flaviocopes.com/vue-cheat-sheet/#working-with-form-elements
+https://github.com/flaviocopes/vuehandbook

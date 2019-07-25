@@ -69,3 +69,12 @@
 
 ### [23.07 Lection 11](/lecture-11/lecture.md)
 - Mongo. Mongoose
+
+### [25.07 Lection 12](/lecture-12/lecture.md)
+- Installation
+- Vue devtools
+- Virtual DOM
+- Vue object methods
+- Components
+- Lifecycle Hooks
+- Directives
