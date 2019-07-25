@@ -177,12 +177,24 @@ References:
 - https://github.com/matteodelabre/mongoose-beautiful-unique-validation
 
 ### Lecture 12 Homework
+
 - Coding https://www.figma.com/file/N6yaH1fyEPYmxvDYHpAWuuPc/DB2-Internship?node-id=1007%3A1199
 - Coding https://www.figma.com/file/N6yaH1fyEPYmxvDYHpAWuuPc/DB2-Internship?node-id=1007%3A1568
-- Rewrite your first `TODO` app (from internship interview) with Vue (as <script> tag)
 - Check official guides and watch free videos here (https://www.vuemastery.com/courses/)
+- Rewrite your first `TODO` app (from internship interview) with Vue (as `<script>` tag)
+
+![TODO](./todo.jpg ':size=500x420')
+
+  - List all todos
+  - Add new todo
+  - Remove todo
+  - Search todos
+  - Filter todo by status
+  - Sort todo by priority
+  - Mark todo as done
+  - Completion status in percents 
 
 References:
-https://github.com/vuejs/awesome-vue
-https://flaviocopes.com/vue-cheat-sheet/#working-with-form-elements
-https://github.com/flaviocopes/vuehandbook
+- https://github.com/vuejs/awesome-vue
+- https://flaviocopes.com/vue-cheat-sheet/#working-with-form-elements
+- https://github.com/flaviocopes/vuehandbook

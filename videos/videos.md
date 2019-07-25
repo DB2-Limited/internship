@@ -46,3 +46,8 @@
 ### Lecture #11
 - [Review homework #10.](https://www.youtube.com/watch?v=Fb1Uz3KHk1k)
 - [Mongoose. Plugins & queries.](https://www.youtube.com/watch?v=-VBjrW_SXcw)
+
+### Lecture #12
+- [Review homework #11.](https://www.youtube.com/watch?v=)
+- [Vue. Components. Directives.](https://www.youtube.com/watch?v=)
+- [](https://www.youtube.com/watch?v=)
