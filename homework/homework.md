@@ -198,3 +198,5 @@ References:
 - https://github.com/vuejs/awesome-vue
 - https://flaviocopes.com/vue-cheat-sheet/#working-with-form-elements
 - https://github.com/flaviocopes/vuehandbook
+- https://snazzymaps.com
+- https://ru.vuejs.org/v2/guide/comparison.html

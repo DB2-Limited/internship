@@ -48,6 +48,6 @@
 - [Mongoose. Plugins & queries.](https://www.youtube.com/watch?v=-VBjrW_SXcw)
 
 ### Lecture #12
-- [Review homework #11.](https://www.youtube.com/watch?v=)
-- [Vue. Components. Directives.](https://www.youtube.com/watch?v=)
-- [](https://www.youtube.com/watch?v=)
+- [Review homework #11.](https://www.youtube.com/watch?v=Jcsz4GyU2_Y)
+- [Vue. Virtual DOM. Components. Directives.](https://www.youtube.com/watch?v=CttFP-YkMjY)
+- [Vue. Lifecycle. Directives. Forms.](https://www.youtube.com/watch?v=Hn-gIBt-Y7g)
