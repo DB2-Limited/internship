@@ -155,3 +155,23 @@ References:
 - https://www.pgadmin.org/
 - https://www.jetbrains.com/datagrip/
 - https://vuejs.org/v2/style-guide/
+
+### Lecture 11 Homework
+
+- Write custom middleware for error handling
+- Install and use any mongoose plugin in your project (e.g. mongoose-beautiful-unique-validation)
+- Use any generator to produce a lot of dummy data. Write fixture loader and load data to your database
+- Work on [search page](https://www.figma.com/file/N6yaH1fyEPYmxvDYHpAWuuPc/DB2-Internship?node-id=557%3A2) functionality:
+  - Add `price` and `rating` fields to `User` model
+  - Create `Category` model (only with `name` for now)
+  - Add sort functionality by price or by rating in descending order
+  - User can be in several categories
+  - Add filter functionality by category
+  - Add pagination for users list
+  - Add search functionality by keyword (search for `firstName` or `lastName`)
+- **FIX LINTERS / TYPOS / NAMINGS IN YOUR PROJECT**
+
+References:
+- https://github.com/powmedia/pow-mongodb-fixtures
+- https://plugins.mongoosejs.io/
+- https://github.com/matteodelabre/mongoose-beautiful-unique-validation
