@@ -51,3 +51,7 @@
 - [Review homework #11.](https://www.youtube.com/watch?v=Jcsz4GyU2_Y)
 - [Vue. Virtual DOM. Components. Directives.](https://www.youtube.com/watch?v=CttFP-YkMjY)
 - [Vue. Lifecycle. Directives. Forms.](https://www.youtube.com/watch?v=Hn-gIBt-Y7g)
+
+### Lecture #13
+- [Review homework #12. Vue CLI.](https://www.youtube.com/watch?v=ZwE3s9IrBZk)
+- [Vue. Router. HTTP.](https://www.youtube.com/watch?v=DNubtKRKwZk)
