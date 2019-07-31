@@ -78,3 +78,13 @@
 - Components
 - Lifecycle Hooks
 - Directives
+
+### [25.07 Lection 12](/lecture-12/lecture.md)
+- Vue cli install
+- Project structure review
+- Api service
+- Vue router
+- Single file components
+- vue.config.js file
+- Css frameworks integrations
+- Deploy project to gh-pages

@@ -6,3 +6,4 @@
 - https://github.com/4doge/node-demo
 - https://github.com/4doge/node-koa-nunjucks-demo
 - https://github.com/4doge/demo-koa
+- https://github.com/alexburykin/vue-demo

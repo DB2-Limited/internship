@@ -200,3 +200,17 @@ References:
 - https://github.com/flaviocopes/vuehandbook
 - https://snazzymaps.com
 - https://ru.vuejs.org/v2/guide/comparison.html
+
+### Lecture 13 Homework
+- Init new project with @vue/cli
+- Add basic routing
+- Set up basic architecture
+- Add pages from previous homeworks
+- Split pages into components
+- Add global styles and scoped styles for components
+
+References:
+- https://cli.vuejs.org/ru/config/#pages
+- https://vuejs.org/v2/style-guide/
+- https://vuejs.org/v2/guide/single-file-components.html#ad
+- https://vuejs.org/v2/style-guide/#Single-file-component-filename-casing-strongly-recommended
