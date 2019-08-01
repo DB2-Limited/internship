@@ -88,3 +88,11 @@
 - vue.config.js file
 - Css frameworks integrations
 - Deploy project to gh-pages
+
+### [30.07 Lection 13](/lecture-13/lecture.md)
+- Vue CLI
+- Vue router
+
+### [01.08 Lection 14](/lecture-14/lecture.md)
+- Vuex
+- User auth
