@@ -55,3 +55,8 @@
 ### Lecture #13
 - [Review homework #12. Vue CLI.](https://www.youtube.com/watch?v=ZwE3s9IrBZk)
 - [Vue. Router. HTTP.](https://www.youtube.com/watch?v=DNubtKRKwZk)
+
+### Lecture #14
+- [Review homework #13.](https://www.youtube.com/watch?v=jIbJXq_tumo)
+- [Vue. Vuex.](https://www.youtube.com/watch?v=RTJ6c7yDqT4)
+- [Vue. Vuex. User auth.](https://www.youtube.com/watch?v=Y9s1Vi5YBWM)
