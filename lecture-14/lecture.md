@@ -19,15 +19,5 @@
 ### Auth
 - https://github.com/alexburykin/vue-demo
 
-### Slots
-- https://vuejs.org/v2/guide/components-slots.html#ad
-
 ### Custom directives
 - https://github.com/Alex-Sokolov/vue-course-app/blob/03-vue-cli-plugins/src/components/datepicker.vue
-
-### Forms
-- Vee-validate
-
-
-
-

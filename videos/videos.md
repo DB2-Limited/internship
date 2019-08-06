@@ -60,3 +60,7 @@
 - [Review homework #13.](https://www.youtube.com/watch?v=jIbJXq_tumo)
 - [Vue. Vuex.](https://www.youtube.com/watch?v=RTJ6c7yDqT4)
 - [Vue. Vuex. User auth.](https://www.youtube.com/watch?v=Y9s1Vi5YBWM)
+
+### Lecture #15
+- [Project management. Trello. Jira.](https://www.youtube.com/watch?v=_wqfjBIL7Kc)
+- [Vue. User auth. Vee-validate. Slots.](https://www.youtube.com/watch?v=2dL0NwT6LcQ)

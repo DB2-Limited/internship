@@ -214,3 +214,20 @@ References:
 - https://vuejs.org/v2/style-guide/
 - https://vuejs.org/v2/guide/single-file-components.html#ad
 - https://vuejs.org/v2/style-guide/#Single-file-component-filename-casing-strongly-recommended
+
+### Lecture 14 Homework
+- Finish old homeworks
+- Practice with vuex
+- Init auth components in Vue app
+
+References:
+- https://vuex.vuejs.org/
+- https://vuejs.org/v2/guide/state-management.html#Simple-State-Management-from-Scratch
+
+### Lecture 15 Homework
+- TBD
+
+References:
+- https://trello.com
+- https://www.atlassian.com/software/jira
+- https://vuejs.org/v2/guide/components-slots.html#ad

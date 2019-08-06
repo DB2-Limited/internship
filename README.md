@@ -96,3 +96,7 @@
 ### [01.08 Lection 14](/lecture-14/lecture.md)
 - Vuex
 - User auth
+
+### [06.08 Lection 15](/lecture-15/lecture.md)
+- Project management. Trello. Jira
+- Vue. User auth. Vee-validate. Slots
