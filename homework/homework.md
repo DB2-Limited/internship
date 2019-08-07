@@ -245,3 +245,18 @@ References:
 - https://trello.com
 - https://www.atlassian.com/software/jira
 - https://vuejs.org/v2/guide/components-slots.html#ad
+
+### Lecture 16 Homework
+- Create User model
+- Init passport.js and jwt & local strategies
+- Create 2 methods (sign-in and sign up)
+- Create one more methods with access only to authorized users
+
+References:
+- https://nodejs.org/api/crypto.html#crypto_crypto_pbkdf2sync_password_salt_iterations_keylen_digest
+- https://mongoosejs.com/docs/api.html#document_Document-invalidate
+- https://mongoosejs.com/docs/guide.html#virtuals
+- http://www.passportjs.org/
+- https://github.com/rkusa/koa-passport
+- https://www.npmjs.com/package/passport-local
+- https://www.npmjs.com/package/passport-jwt

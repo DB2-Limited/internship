@@ -64,3 +64,7 @@
 ### Lecture #15
 - [Project management. Trello. Jira.](https://www.youtube.com/watch?v=_wqfjBIL7Kc)
 - [Vue. User auth. Vee-validate. Slots.](https://www.youtube.com/watch?v=2dL0NwT6LcQ)
+
+### Lecture #16
+- [User auth. Passport.js. #1](https://www.youtube.com/watch?v=GKRtn6EsRyU)
+- [User auth. Passport.js. #2](https://www.youtube.com/watch?v=x2zSf9vvgPo)
