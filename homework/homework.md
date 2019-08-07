@@ -225,7 +225,21 @@ References:
 - https://vuejs.org/v2/guide/state-management.html#Simple-State-Management-from-Scratch
 
 ### Lecture 15 Homework
-- TBD
+- Sign up new Trello account
+- Create 5-columns board (To do, In progress, Review, QA, Done)
+- Create few tasks (labels, attach a code and image, deadlines, checklist etc)
+- Invite your classmate to the board and assign him/her a few tasks
+- Sign up new Jira account (you have 7 days free trial period with full functionality, no credit card needed)
+- Create project (Scrum based, but you can check other types)
+- Create and tune Board (5 columns: To do, In progress, Review, QA, Done)
+- Create few tasks (different types: bug, issue, story)
+- Edit tasks (attach pictures & files, code, comments, change assigne and reporters, setup priority)
+- Create Epic with few tasks
+- Change task statuses
+- Add estimates to tasks
+- Add fact time to task
+- Create and start sprint with few tasks and epic
+- Move all tasks to done and finish sprint
 
 References:
 - https://trello.com
