@@ -60,7 +60,7 @@ Vue.component('button-counter', {
 })
 ```
 
-![comopnents](./comopnents.png)
+![comopnents](./components.png)
 
 https://vuejs.org/v2/guide/components.html
 https://flaviocopes.com/vue-cheat-sheet/#instance-properties
