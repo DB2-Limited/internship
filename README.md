@@ -103,3 +103,8 @@
 
 ### [07.08 Lection 16](/lecture-16/lecture.md)
 - User auth. Passport.js
+
+### [08.08 Lection 17](/lecture-17/lecture.md)
+- REST API design patterns
+- Sending emails
+- Uploading media to AWS S3
