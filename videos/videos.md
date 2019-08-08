@@ -66,5 +66,9 @@
 - [Vue. User auth. Vee-validate. Slots.](https://www.youtube.com/watch?v=2dL0NwT6LcQ)
 
 ### Lecture #16
-- [User auth. Passport.js. #1](https://www.youtube.com/watch?v=GKRtn6EsRyU)
-- [User auth. Passport.js. #2](https://www.youtube.com/watch?v=x2zSf9vvgPo)
+- [User auth. Passport.js #1.](https://www.youtube.com/watch?v=GKRtn6EsRyU)
+- [User auth. Passport.js #2.](https://www.youtube.com/watch?v=x2zSf9vvgPo)
+
+### Lecture #17
+- [REST design. Email sending via SendGrid.](https://www.youtube.com/watch?v=4u-PI2IwozU)
+- [AWS. S3.](https://www.youtube.com/watch?v=G83WKIHDiUA)

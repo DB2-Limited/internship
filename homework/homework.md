@@ -260,3 +260,15 @@ References:
 - https://github.com/rkusa/koa-passport
 - https://www.npmjs.com/package/passport-local
 - https://www.npmjs.com/package/passport-jwt
+
+### Lecture 17 Homework
+- Sign up for SendGrid
+- Sign up for AWS
+- Integrate SendGrid into your Node application
+- Send email with rendered html(via any template engine) and attachments
+- Create a PUT method for updating user photo, store photos on AWS S3 
+
+References:
+- https://sendgrid.com/
+- https://sendgrid.com/docs/API_Reference/Web_API_v3/Mail/index.html
+- https://aws.amazon.com/s3/pricing/
