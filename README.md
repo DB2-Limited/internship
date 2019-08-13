@@ -110,4 +110,6 @@
 - Uploading media to AWS S3
 
 ### [13.08 Lection 18](/lecture-18/lecture.md)
-- TBD
+- HTML to PDF
+- Swagger
+- Search form

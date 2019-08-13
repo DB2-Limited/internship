@@ -74,5 +74,5 @@
 - [AWS. S3.](https://www.youtube.com/watch?v=G83WKIHDiUA)
 
 ### Lecture #18
-- [TBD](https://www.youtube.com/watch?v=)
-- [TBD](https://www.youtube.com/watch?v=)
+- [HTML to PDF. Swagger.](https://www.youtube.com/watch?v=GY4e78qEKJU)
+- [Search form](https://www.youtube.com/watch?v=tapnNjo0pSM)
