@@ -72,3 +72,7 @@
 ### Lecture #17
 - [REST design. Email sending via SendGrid.](https://www.youtube.com/watch?v=4u-PI2IwozU)
 - [AWS. S3.](https://www.youtube.com/watch?v=G83WKIHDiUA)
+
+### Lecture #18
+- [TBD](https://www.youtube.com/watch?v=)
+- [TBD](https://www.youtube.com/watch?v=)

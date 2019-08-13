@@ -272,3 +272,12 @@ References:
 - https://sendgrid.com/
 - https://sendgrid.com/docs/API_Reference/Web_API_v3/Mail/index.html
 - https://aws.amazon.com/s3/pricing/
+
+
+### Lecture 18 Homework
+- TBD
+
+References:
+- https://github.com/devongovett/node-wkhtmltopdf
+- https://github.com/scttcper/koa2-swagger-ui
+

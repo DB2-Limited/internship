@@ -106,5 +106,8 @@
 
 ### [08.08 Lection 17](/lecture-17/lecture.md)
 - REST API design patterns
-- Sending emails via SendGrid
+- Sending emails
 - Uploading media to AWS S3
+
+### [13.08 Lection 18](/lecture-18/lecture.md)
+- TBD
