@@ -76,3 +76,7 @@
 ### Lecture #18
 - [HTML to PDF. Swagger.](https://www.youtube.com/watch?v=GY4e78qEKJU)
 - [Search form](https://www.youtube.com/watch?v=tapnNjo0pSM)
+
+### Lecture #19
+- [Review homeworks. Node.js.](https://www.youtube.com/watch?v=DM0svGaakl8)
+- [Review homeworks. Vue.js.](https://www.youtube.com/watch?v=hJ2IWhuyx0U)
