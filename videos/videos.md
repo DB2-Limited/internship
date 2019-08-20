@@ -80,3 +80,7 @@
 ### Lecture #19
 - [Review homeworks. Node.js.](https://www.youtube.com/watch?v=DM0svGaakl8)
 - [Review homeworks. Vue.js.](https://www.youtube.com/watch?v=hJ2IWhuyx0U)
+
+### Lecture #20
+- [Review homeworks #14.](https://www.youtube.com/watch?v=LK-qkp-ln_o)
+- [Angular vs React vs Vue. Typescript.](https://www.youtube.com/watch?v=2JoH8eO5P60)
