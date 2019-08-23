@@ -84,3 +84,7 @@
 ### Lecture #20
 - [Review homeworks #14.](https://www.youtube.com/watch?v=LK-qkp-ln_o)
 - [Angular vs React vs Vue. Typescript.](https://www.youtube.com/watch?v=2JoH8eO5P60)
+
+### Lecture #21
+- [Review homeworks #15.](https://www.youtube.com/watch?v=HlN10MgsEPM)
+- [AWS. EC2. PM2. Nginx.](https://www.youtube.com/watch?v=3Z2pzqcVQGA)
