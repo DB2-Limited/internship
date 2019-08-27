@@ -275,9 +275,42 @@ References:
 
 
 ### Lecture 18 Homework
-- TBD
+- Write documentation for your REST API service with Swagger
+- Sign up for Swagger Hub and try to deploy docs online
+- Write util function that will generate HTML code from any template engine to PDF file.
 
 References:
 - https://github.com/devongovett/node-wkhtmltopdf
 - https://github.com/scttcper/koa2-swagger-ui
+
+
+### Lecture 19 Homework
+- Finish previous homeworks 😉
+
+### Lecture 20 Homework
+- Init demo projects with Angular and React CLIs.
+
+References:
+- https://angular.io/start
+- https://reactjs.org/docs/getting-started.html
+- https://medium.com/front-end-weekly/react-vs-angular-vs-vue-js-a-complete-comparison-guide-d16faa185d61
+
+### Lecture 21 Homework
+- Deploy Node.js project to AWS EC2
+- Configure Nginx web-server and server API on EC2 public IP
+
+References:
+- 
+
+### Lecture 22 Homework
+- Configure CircleCI `config.yml`
+- Sign up for Docker Hub
+- Build, tag and push docker image to Docker Hub registry
+- Try to remove / stop / exec with docker containers
+- Try to pull docker image from Docker Hub
+
+References:
+- http://hub.docker.com
+- https://circleci.com/
+- https://travis-ci.org/
 

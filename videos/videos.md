@@ -88,3 +88,7 @@
 ### Lecture #21
 - [Review homeworks #15.](https://www.youtube.com/watch?v=HlN10MgsEPM)
 - [AWS. EC2. PM2. Nginx.](https://www.youtube.com/watch?v=3Z2pzqcVQGA)
+
+### Lecture #22
+- [CI & CD. CircleCI.](https://www.youtube.com/watch?v=3UzHuTLPN4U)
+- [CI & CD. Docker.](https://www.youtube.com/watch?v=P-Xj_rdvQ3Q)

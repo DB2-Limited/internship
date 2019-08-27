@@ -113,3 +113,19 @@
 - HTML to PDF
 - Swagger
 - Search form
+
+### [15.08 Lection 19](/lecture-19/lecture.md)
+- Review previous homeworks
+
+### [20.08 Lection 20](/lecture-20/lecture.md)
+- Angular vs React vs Vue
+
+### [12.08 Lection 21](/lecture-21/lecture.md)
+- AWS EC2
+- Nginx
+- Deploy Node.js to AWS
+
+### [27.08 Lection 22](/lecture-22/lecture.md)
+- CI & CD
+- CircleCI
+- Docker
