@@ -92,3 +92,7 @@
 ### Lecture #22
 - [CI & CD. CircleCI.](https://www.youtube.com/watch?v=3UzHuTLPN4U)
 - [CI & CD. Docker.](https://www.youtube.com/watch?v=P-Xj_rdvQ3Q)
+
+### Lecture #23
+- [Testing. Mocha & Chai. Coverage.](https://www.youtube.com/watch?v=Kcu42TDD6Js)
+- [Testing. e2e. Puppeteer.](https://www.youtube.com/watch?v=ls_7g75y1QM)
