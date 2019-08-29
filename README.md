@@ -129,3 +129,7 @@
 - CI & CD
 - CircleCI
 - Docker
+
+
+### [29.08 Lection 23](/lecture-23/lecture.md)
+- Testing

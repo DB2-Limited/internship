@@ -313,4 +313,10 @@ References:
 - http://hub.docker.com
 - https://circleci.com/
 - https://travis-ci.org/
+- https://github.com/DB2-Limited/awesome-cheats/blob/master/backend/devops/docker.md
 
+### Lecture 23 Homework
+- TBD
+
+References:
+- TBD

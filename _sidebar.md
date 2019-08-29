@@ -17,6 +17,12 @@
   - [Lecture 16](/lecture-16/lecture.md)
   - [Lecture 17](/lecture-17/lecture.md)
   - [Lecture 18](/lecture-18/lecture.md)
+  - [Lecture 19](/lecture-19/lecture.md)
+  - [Lecture 20](/lecture-20/lecture.md)
+  - [Lecture 21](/lecture-21/lecture.md)
+  - [Lecture 22](/lecture-22/lecture.md)
+  - [Lecture 23](/lecture-23/lecture.md)
+
 
 - **Info**
   - [Homework](/homework/homework.md)
