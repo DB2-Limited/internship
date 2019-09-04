@@ -96,3 +96,7 @@
 ### Lecture #23
 - [Testing. Mocha & Chai. Coverage.](https://www.youtube.com/watch?v=Kcu42TDD6Js)
 - [Testing. e2e. Puppeteer.](https://www.youtube.com/watch?v=ls_7g75y1QM)
+
+### Lecture #24
+- [Review homeworks #16. Part 1.](https://www.youtube.com/watch?v=cWfCVC6gTv4)
+- [Review homeworks #16. Part 2.](https://www.youtube.com/watch?v=51XHVY5YH8I)

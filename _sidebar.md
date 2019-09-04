@@ -22,6 +22,7 @@
   - [Lecture 21](/lecture-21/lecture.md)
   - [Lecture 22](/lecture-22/lecture.md)
   - [Lecture 23](/lecture-23/lecture.md)
+  - [Lecture 24](/lecture-24/lecture.md)
 
 
 - **Info**

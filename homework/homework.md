@@ -299,8 +299,6 @@ References:
 - Deploy Node.js project to AWS EC2
 - Configure Nginx web-server and server API on EC2 public IP
 
-References:
-- 
 
 ### Lecture 22 Homework
 - Configure CircleCI `config.yml`
@@ -316,7 +314,13 @@ References:
 - https://github.com/DB2-Limited/awesome-cheats/blob/master/backend/devops/docker.md
 
 ### Lecture 23 Homework
-- TBD
+- Write unit tests for your API endpoints
+- Write e2e tests for your Vue application
+- Integrate tests into your CI & CD flow
 
 References:
-- TBD
+- https://mochajs.org/#getting-started
+- https://www.chaijs.com/plugins/chai-http/
+
+### Lecture 24 Homework
+- Finish previous homeworks 😉

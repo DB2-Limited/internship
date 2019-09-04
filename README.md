@@ -130,6 +130,8 @@
 - CircleCI
 - Docker
 
-
 ### [29.08 Lection 23](/lecture-23/lecture.md)
 - Testing
+
+### [03.08 Lection 24](/lecture-24/lecture.md)
+- Review previous homeworks
