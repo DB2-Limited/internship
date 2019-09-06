@@ -100,3 +100,7 @@
 ### Lecture #24
 - [Review homeworks #16. Part 1.](https://www.youtube.com/watch?v=cWfCVC6gTv4)
 - [Review homeworks #16. Part 2.](https://www.youtube.com/watch?v=51XHVY5YH8I)
+
+### Lecture #25
+- [Chat. Socket.io.](https://www.youtube.com/watch?v=0dK-EOf7usc)
+- [Chat. Lazy load messages.](https://www.youtube.com/watch?v=tZJ_kF3ts2k)
