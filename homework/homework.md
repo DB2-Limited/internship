@@ -324,3 +324,25 @@ References:
 
 ### Lecture 24 Homework
 - Finish previous homeworks 😉
+
+### Lecture 25 Homework
+- Write socket listener in Vue application
+- Emit new messages via Socket.io
+- Get old messages vie REST GET method
+
+References:
+- https://socket.io/
+
+### Lecture 26 Homework
+- Sign up for a Facebook developer 
+- Create Facebook app and setup Facebook login product
+- Write Facebook Passport.js strategy
+- Sign up for a Google developer
+- Create Google project and setup oauth credentials
+- Write Google Passport.js strategy
+
+References:
+- https://developers.facebook.com
+- https://console.developers.google.com
+- https://github.com/jaredhanson/passport-facebook
+- https://github.com/jaredhanson/passport-google-oauth2

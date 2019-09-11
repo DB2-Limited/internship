@@ -133,5 +133,13 @@
 ### [29.08 Lection 23](/lecture-23/lecture.md)
 - Testing
 
-### [03.08 Lection 24](/lecture-24/lecture.md)
+### [03.09 Lection 24](/lecture-24/lecture.md)
 - Review previous homeworks
+
+### [05.09 Lection 25](/lecture-25/lecture.md)
+- Sockets
+
+### [10.09 Lection 26](/lecture-26/lecture.md)
+- Passport.js
+- Facebook
+- Google

@@ -104,3 +104,7 @@
 ### Lecture #25
 - [Chat. Socket.io.](https://www.youtube.com/watch?v=X8hVxeIb7Eo)
 - [Chat. Lazy load messages.](https://www.youtube.com/watch?v=1YWg6VOpxwM)
+
+### Lecture #26
+- [Deploy Vue. Passport.js. Facebook.](https://www.youtube.com/watch?v=tMBrDAdnyBs)
+- [Passport.js. Google.](https://www.youtube.com/watch?v=Kf1K3BvJ7as)
